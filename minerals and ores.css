@@ -1,0 +1,92 @@
+body {
+	margin:0px;	
+	
+}
+
+
+.heading {
+	background-image :url(https://th.bing.com/th/id/OIP.PMNfStGLI3A2qj8ZtkdwSQHaHa?w=203&h=198&c=7&r=0&o=5&pid=1.7);
+	font-family :arial;
+	opacity:0.6;
+	
+}
+
+
+
+.main {
+	background-color:#fff;
+	margin:100px;
+}
+
+
+
+.iron img {
+	float:right;
+
+}
+
+.manganese img {
+	float:right;
+}
+
+.copper img {
+	float:right;
+
+}
+
+.silver img  {
+	float:right;
+	height:200px;
+	width:250px;
+
+}
+
+
+.gold img {
+	float:right;
+	width:250px;
+	height:200px;
+}
+
+.bauxite img {
+	float:right;
+
+}
+
+.uranium img {
+	float:right;
+
+}
+
+.limestone img {
+	float:right;
+
+}
+
+.mica img {
+	float:right;
+}
+
+
+.coal img {
+	float:right;
+
+}
+
+.petroleum img {
+	float:right;
+
+
+}
+
+
+.natural-gas img {
+	float:right;
+
+}
+
+
+.mining img {
+	float:right;
+
+}
