@@ -2,7 +2,7 @@ body {
 	margin:0px;	
 	
 }
-li:hover {
+.header-list li:hover {
 
 	color: #00fff00;
 	opacity:0.5;
