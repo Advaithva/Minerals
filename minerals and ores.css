@@ -14,7 +14,7 @@ li:hover {
 	margin:0px;
 }
 
-li {
+.header-list li {
 	float:left;
 	list-style:none;
 	width:390px;
