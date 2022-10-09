@@ -2,24 +2,6 @@ body {
 	margin:0px;	
 	
 }
-.li:hover {
-
-	color: #00ff00;
-	opacity:0.5;
-}
-.Header-list {
-	
-	padding-top:5px ;
-	font-size:24px;
-	margin:0px;
-}
-
-span {
-	float:left;
-	list-style:none;
-	width:390px;
-	text-align:center;
-}
 
 
 .heading {
