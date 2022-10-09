@@ -14,7 +14,7 @@ body {
 	margin:0px;
 }
 
-.li {
+span {
 	float:left;
 	list-style:none;
 	width:390px;
