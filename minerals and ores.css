@@ -2,7 +2,7 @@ body {
 	margin:0px;	
 	
 }
-.header-list li:hover {
+.li:hover {
 
 	color: #00ff00;
 	opacity:0.5;
@@ -14,7 +14,7 @@ body {
 	margin:0px;
 }
 
-.header-list li {
+.li {
 	float:left;
 	list-style:none;
 	width:390px;
